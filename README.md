@@ -7,5 +7,5 @@ In questa repository sono presenti **esercizi** di assembly per la prima parte d
 
 Gli [esercizi](https://github.com/follen99/ArchitetturaDeiCalcolatori/tree/main/Esercizi%20Assembly) sono suddivisi in cartelle **Livello - semplice** e **Livello - Medio** . Sono presenti esercizi di livello avanzato, con l'utilizzo di _funzioni che chiamano funzioni_, e quindi l'utilizzo dello **stack pointer** per tenere traccia del **return address**, ma non sono ancora stati ordinati completamente. Gli esercizi non ancora ordinati sono nella cartella **Vari.** 
 
-Per la comprensione di funzioni **foglia** consiglio la visione dei seguenti esercizi: [e1](https://github.com/follen99/ArchitetturaDeiCalcolatori/blob/main/Esercizi%20Assembly/Vari/Leaf.asm), 
+Per la comprensione di funzioni **foglia** consiglio la visione dei seguenti esercizi: [e1](https://github.com/follen99/ArchitetturaDeiCalcolatori/blob/main/Esercizi%20Assembly/Vari/Leaf.asm), [e2](https://github.com/follen99/ArchitetturaDeiCalcolatori/blob/main/Esercizi%20Assembly/Livello%20-%20Avanzato/chNonPresenti.asm), [e3](https://github.com/follen99/ArchitetturaDeiCalcolatori/blob/main/Esercizi%20Assembly/Livello%20-%20Avanzato/consonantiDoppie.asm).
 
